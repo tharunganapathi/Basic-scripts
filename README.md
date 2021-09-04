@@ -4,7 +4,7 @@ when you run the script,
 2. then it will set that frame range as global frame range
 
 ![set iproject](https://user-images.githubusercontent.com/65713157/132109001-be757ec6-0878-428a-92a7-0540cac456b4.jpg)
-
+.
 
 
 
@@ -17,7 +17,7 @@ when the script goes big, its a bit hard to connect or copy the read node to are
 
 ![postage stamp](https://user-images.githubusercontent.com/65713157/132109005-b3d0a5f1-9f0d-47be-a26a-155fda762868.jpg)
 ![postage stamp2](https://user-images.githubusercontent.com/65713157/132109055-fd3aa19e-3968-42f5-b560-3b3171174625.jpg)
-
+.
 
 
 
@@ -26,6 +26,7 @@ when the script goes big, its a bit hard to connect or copy the read node to are
 To test the python codes, i have a simple nodes
 It will create the checkerboard, then Grade node, then Write node with some file path
 ![python test](https://user-images.githubusercontent.com/65713157/132109008-51ee6527-effd-4485-af5e-0eafc2de9e78.jpg)
+.
 
 
 
