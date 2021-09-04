@@ -39,7 +39,7 @@ It will create the checkerboard, then Grade node, then Write node with some file
 <br/>
 <br/>
 <br/>
-# select_Particula_rWriteNodes
+# select_Particular_WriteNodes
 
 When you have different write nodes of different formats, with this you can select the particular write nodes.
 
