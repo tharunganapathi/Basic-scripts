@@ -4,12 +4,12 @@ when you run the script,
 2. then it will set that frame range as global frame range
 
 ![set iproject](https://user-images.githubusercontent.com/65713157/132109001-be757ec6-0878-428a-92a7-0540cac456b4.jpg)
-.
-.
-.
-.
-.
-.
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
 # postage stamp from read node 
 
 when the script goes big, its a bit hard to connect or copy the read node to area we are working .
